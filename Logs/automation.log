@@ -1,0 +1,352 @@
+2024-01-28 11:05:24,328 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 11:05:24,328 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 11:05:43,890 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-01-28 11:07:14,201 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 11:07:14,201 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 11:07:25,411 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-01-28 14:00:47,820 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 14:00:47,820 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 14:01:20,483 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 14:01:20,483 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 14:01:41,858 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-01-28 22:37:32,399 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 22:37:32,399 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 22:37:47,290 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-01-28 22:44:52,951 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 22:44:52,952 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 22:45:07,808 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-01-28 22:49:08,619 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 22:49:08,620 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-28 23:39:15,624 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-28 23:39:15,624 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-29 00:08:49,184 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-29 00:08:49,185 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-29 00:58:22,637 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-29 00:58:22,637 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-29 00:59:07,661 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-29 00:59:07,662 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-29 01:07:17,604 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-29 01:07:17,605 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-29 01:33:00,537 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-29 01:33:00,537 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-01-31 00:35:14,909 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-01-31 00:35:14,910 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-02-02 11:46:07,955 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-02-02 11:46:07,955 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-02-02 11:47:32,024 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-02-02 11:47:32,024 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-02-02 11:47:52,787 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-02-02 12:00:10,456 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-02-02 12:00:10,457 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-02-02 12:00:31,891 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-02-06 01:52:10,336 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-02-06 01:52:10,341 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-04-22 19:17:57,407 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-04-22 19:17:57,409 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-04-26 13:47:15,321 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-04-26 13:47:15,321 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-04-26 13:47:36,738 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-04-26 13:47:36,739 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-04-26 13:51:21,166 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-04-26 13:51:21,166 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-04-26 13:51:36,082 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-04-26 13:51:38,391 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-04-26 13:51:38,392 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-04-26 13:53:23,794 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-04-26 13:53:23,794 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-04-26 13:53:36,707 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-04-26 13:53:39,216 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-04-26 13:53:39,217 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-04-26 13:54:48,223 - INFO - Test_001_login - test_homepagetitle - **********TEST_001_Login*******
+2024-04-26 13:54:48,223 - INFO - Test_001_login - test_homepagetitle - *****Verifying home page Title****
+2024-04-26 13:55:00,226 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-04-26 13:55:02,867 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-04-26 13:55:02,867 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:05:29,672 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 12:05:53,948 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 12:05:53,949 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 12:05:54,004 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 12:05:54,004 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 12:06:23,969 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 12:06:26,549 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:06:26,549 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:16:42,480 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 12:16:52,961 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 12:16:52,961 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 12:16:53,005 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 12:16:53,006 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 12:17:04,535 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 12:17:06,932 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:17:06,933 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:25:32,092 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 12:25:52,803 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 12:25:52,804 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 12:25:57,668 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 12:25:57,669 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 12:26:17,802 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 12:26:20,251 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:26:20,251 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:28:04,692 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:28:04,693 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:39:48,999 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:39:49,000 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:39:56,353 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 12:43:02,835 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:43:02,836 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:43:14,232 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 12:48:33,328 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:48:33,330 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:49:28,595 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:49:28,595 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:53:05,963 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 12:53:18,349 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:53:18,350 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:53:31,458 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 12:54:10,801 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 12:58:29,285 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 12:58:29,286 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 12:58:38,084 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 12:58:44,136 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:02:53,399 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:02:53,400 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:03:05,346 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:03:14,358 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:04:44,503 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:04:44,503 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:04:55,568 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:06:37,037 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:14:28,193 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:14:28,193 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:14:36,447 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:14:45,494 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:27:12,349 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:27:12,349 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:27:21,408 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:27:33,832 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:28:13,836 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:28:13,836 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:28:21,373 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:32:52,542 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:36:03,707 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:36:03,707 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:36:43,022 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:37:19,691 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 13:55:36,440 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 13:55:36,441 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 13:56:00,399 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 13:56:18,196 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 14:35:55,816 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 14:35:55,817 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 14:36:04,274 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 14:36:13,075 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 15:27:03,124 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 15:27:03,125 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:10:37,014 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:10:37,015 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:10:43,409 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:10:51,711 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:22:50,889 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:22:50,890 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:22:58,209 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:23:08,690 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:23:37,383 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:23:37,383 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:23:44,430 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:23:54,790 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:32:46,278 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:32:46,279 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:32:53,615 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:33:02,333 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:37:57,003 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 16:38:04,368 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 16:38:04,368 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 16:38:05,782 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 16:38:05,782 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 16:38:19,962 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 16:38:21,902 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:38:21,903 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:38:28,811 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:38:40,192 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:42:33,321 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 16:42:40,500 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 16:42:40,500 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 16:42:40,602 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 16:42:40,602 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 16:42:54,931 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 16:42:56,930 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:42:56,930 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:43:05,704 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:43:15,645 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:43:15,653 - INFO - Test_002_DDT_login - test_login_ddt - ******failed********
+2024-05-05 16:46:47,522 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 16:46:52,031 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 16:46:52,032 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 16:46:54,713 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 16:46:54,713 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 16:47:06,182 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 16:47:08,167 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:47:08,167 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:47:16,318 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:47:24,323 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:47:24,333 - INFO - Test_002_DDT_login - test_login_ddt - ******failed********
+2024-05-05 16:51:00,673 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 16:51:03,670 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 16:51:03,670 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-05 16:51:05,624 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-05 16:51:05,624 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-05 16:51:16,141 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-05 16:51:18,188 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-05 16:51:18,188 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-05 16:51:24,400 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-05 16:51:31,986 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-05 16:51:31,999 - INFO - Test_002_DDT_login - test_login_ddt - ******failed********
+2024-05-05 16:53:07,388 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-05 16:53:11,515 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-05 16:53:11,516 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 00:21:00,962 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 00:21:07,607 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 00:21:07,607 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 14:01:56,724 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:02:41,010 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:02:45,732 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:02:45,733 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:02:47,668 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:09:47,095 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:09:53,227 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:09:53,227 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:09:55,190 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:11:23,007 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:11:37,514 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:11:37,514 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:11:38,972 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:13:08,425 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:13:12,733 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:13:12,734 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:13:14,717 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:15:42,875 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:15:47,508 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:15:47,508 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:15:49,599 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:17:46,765 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:17:49,953 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:17:49,954 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:17:51,693 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:18:49,798 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:19:10,827 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:19:10,828 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:19:14,258 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 14:24:04,443 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 14:24:08,106 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 14:24:08,107 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 14:24:10,007 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 15:17:49,561 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-06 15:17:54,509 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-06 15:17:54,510 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-06 15:17:56,358 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****searching customer by emailId******
+2024-05-06 15:18:06,679 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *****TC__004 finished
+2024-05-06 21:12:37,264 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:12:41,074 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:12:41,074 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:12:43,958 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:24:27,019 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:24:32,976 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:24:32,976 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:24:36,203 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:29:12,600 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:29:17,469 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:29:17,470 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:29:20,542 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:33:17,634 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:33:33,975 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:33:33,975 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:33:45,454 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:37:44,191 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:37:48,113 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:37:48,114 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:37:52,714 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:38:28,204 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:38:32,266 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:38:32,266 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:38:34,991 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:46:35,276 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:48:49,068 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:48:49,068 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:50:01,949 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:50:29,463 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:50:29,464 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:50:33,275 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:55:11,842 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:55:16,534 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:55:16,535 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 21:55:20,224 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 21:56:52,627 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 21:59:13,850 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 21:59:13,851 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:13:08,595 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:13:40,808 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:13:40,809 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:13:44,341 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 22:15:28,603 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:15:33,907 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:15:33,907 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:15:36,607 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 22:16:06,320 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:16:11,326 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:16:11,326 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:16:15,288 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 22:19:59,049 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:20:05,473 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:20:05,473 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:20:08,875 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 22:31:23,384 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:31:45,166 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:31:45,167 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:32:11,431 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:32:22,627 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:32:22,628 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:32:27,492 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-06 22:34:06,985 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-06 22:34:21,056 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-06 22:34:21,056 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-06 22:34:51,867 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-07 12:26:41,052 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 12:26:46,144 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 12:26:46,145 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 12:26:49,093 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-07 12:27:22,973 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 12:27:27,736 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 12:27:27,736 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 12:27:31,405 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
+2024-05-07 12:27:38,330 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-07 12:27:38,332 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-07 12:27:49,975 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-07 12:27:52,610 - INFO - Test_002_DDT_login - test_login_ddt - **********TEST_002_Login*******
+2024-05-07 12:27:52,610 - INFO - Test_002_DDT_login - test_login_ddt - *****Verifying Login DDT Title****
+2024-05-07 12:27:59,710 - INFO - Test_002_DDT_login - test_login_ddt - *****3****
+2024-05-07 12:28:08,031 - INFO - Test_002_DDT_login - test_login_ddt - *****checking****
+2024-05-07 12:28:08,042 - INFO - Test_002_DDT_login - test_login_ddt - ******failed********
+2024-05-07 12:28:14,177 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******SearchCustomerByEmail_004*****
+2024-05-07 12:28:18,657 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - *******Login_Succesful*****
+2024-05-07 12:28:18,657 - INFO - Test_searchCustomerByEmail_004 - test_searchCustomerByEmail - ******Starting Search Customer By Email*****
+2024-05-07 12:58:25,874 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 12:58:31,290 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 12:58:31,291 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 12:58:31,506 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-07 12:58:31,507 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-07 12:58:44,104 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-07 13:01:15,043 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 13:01:20,119 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 13:01:20,119 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 13:01:21,674 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-07 13:01:21,675 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-07 13:01:33,427 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-07 13:04:51,945 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 13:04:56,761 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 13:04:56,762 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 13:04:56,930 - INFO - Test_001_login - test_homepage_title - **********TEST_001_Login*******
+2024-05-07 13:04:56,930 - INFO - Test_001_login - test_homepage_title - *****Verifying home page Title****
+2024-05-07 13:05:08,740 - INFO - Test_001_login - test_login - ***********test_login passed***************
+2024-05-07 14:39:29,861 - INFO - Test_003_Addcustomer - test_addcustomer - ****************TEST_003_AddCustomer *********
+2024-05-07 14:39:34,558 - INFO - Test_003_Addcustomer - test_addcustomer - ************Login Successful*****
+2024-05-07 14:39:34,558 - INFO - Test_003_Addcustomer - test_addcustomer - ********* Starting Add Customer test*****
+2024-05-07 14:39:37,182 - INFO - Test_003_Addcustomer - test_addcustomer - **********Providing customer info******
